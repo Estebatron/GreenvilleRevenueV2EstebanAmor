@@ -8,8 +8,8 @@ class Program {
     Intro(); // excecutes the Intro method 
 
     Comp Comp1 = new Comp(); // creating variables for the number of contestants to be compared
-     Comp1.lastYear = 112;
-     Comp1.thisYear = 84;
+     Comp1.lastYear = 679;
+     Comp1.thisYear = 252;
 
    var input = Console.ReadLine(); // takes the input from the user
       if (input == "1")
